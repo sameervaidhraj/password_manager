@@ -12,8 +12,6 @@ A lightweight, GUI-based password manager built using Python that securely store
 - DOB and email-based passcode reset option
 - Simple and user-friendly GUI with Tkinter
 
-## Screenshots
-![alt text](<Screenshot 2025-05-20 101926-1.png>) ![alt text](<Screenshot 2025-05-20 102019-1.png>) ![alt text](<Screenshot 2025-05-20 102043-1.png>)
 
 ## Requirements
 
