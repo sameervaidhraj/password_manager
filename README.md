@@ -9,7 +9,6 @@ A lightweight, GUI-based password manager built using Python that securely store
 - Add, view, edit, and delete credentials
 - Locally encrypted storage using AES encryption
 - Change old passcode functionality
-- DOB and email-based passcode reset option
 - Simple and user-friendly GUI with Tkinter
 
 ## Screenshot
