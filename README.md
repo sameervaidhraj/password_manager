@@ -14,6 +14,9 @@ A lightweight, GUI-based password manager built using Python that securely store
 
 ## Screenshot
   ![Screenshot 2025-05-20 101926](https://github.com/user-attachments/assets/f8fc481b-3a1c-45bb-83d5-b66e904bf0b4)
+  ![Screenshot 2025-05-20 102019](https://github.com/user-attachments/assets/9e44c621-32f8-4442-ba56-f256702bc5de)
+  ![Screenshot 2025-05-20 102043](https://github.com/user-attachments/assets/000bd873-47a9-4281-8e67-378d85123235)
+
 
 
 
